@@ -1,4 +1,4 @@
-#inculde <studio.h>
+#include <studio.h>
 
 int SolveSudoku(int , int );
 void printSudoku(void);
@@ -34,7 +34,7 @@ void printSudoku(){
 								 }
 								 printf("\n");
 				 }
-				 printf(\n\n);
+				 printf("\n\n");
 }
 
 int solveSudoku(int x , int y){
